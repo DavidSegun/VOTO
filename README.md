@@ -1,3 +1,3 @@
 # VOTO
 An electronic voting system written in php guys!
-<b> Authur<b> David Segun
+Author: <b> David Segun <b>
